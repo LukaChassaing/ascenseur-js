@@ -1,4 +1,4 @@
-import SignalTarget from '../software/SignalTarget.js';
+import SignalTarget from '../Soft/SignalTarget.js';
 
 // an elevator doors motor does literally 2 things:
 // it opens doors or it closes them.

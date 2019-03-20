@@ -1,4 +1,4 @@
-import SignalTarget from '../software/SignalTarget.js';
+import SignalTarget from '../Soft/SignalTarget.js';
 
 // just like its doors, an elevator moves through a motor
 import BiggerMotor from './BiggerMotor.js';

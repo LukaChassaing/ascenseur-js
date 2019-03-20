@@ -1,4 +1,4 @@
-import SignalTarget from '../software/SignalTarget.js';
+import SignalTarget from '../Soft/SignalTarget.js';
 
 // modern elevator doors have at least one motor
 import Motor from './Motor.js';

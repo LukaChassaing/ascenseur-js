@@ -1,4 +1,4 @@
-import SignalTarget from '../software/SignalTarget.js';
+import SignalTarget from '../Soft/SignalTarget.js';
 
 // when active, a proximity sensor is capable of signaling
 // whenever someone, or something, is around

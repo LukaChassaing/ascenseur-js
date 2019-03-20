@@ -1,14 +1,14 @@
 import {bind, wire} from 'https://unpkg.com/hyperhtml?module';
 
 // software
-import Action from '../software/Action.js';
-import Controller from '../software/Controller.js';
+import Action from '../Soft/Action.js';
+import Controller from '../Soft/Controller.js';
 
 // hardware
-import LightButton from '../hardware/LightButton.js';
-import Doors from '../hardware/Doors.js';
-import Elevator from '../hardware/Elevator.js';
-import Panel from '../hardware/Panel.js';
+import LightButton from '../Hard/LightButton.js';
+import Doors from '../Hard/Doors.js';
+import Elevator from '../Hard/Elevator.js';
+import Panel from '../Hard/Panel.js';
 
 document.addEventListener(
   'DOMContentLoaded',

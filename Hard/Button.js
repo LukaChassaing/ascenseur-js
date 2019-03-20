@@ -1,4 +1,4 @@
-import SignalTarget from '../software/SignalTarget.js';
+import SignalTarget from '../Soft/SignalTarget.js';
 
 // the most basic Button ever does one thing and one thing only:
 // when you press it, it sends a signal that it's being pressed

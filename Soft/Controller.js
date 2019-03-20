@@ -1,8 +1,8 @@
 import Action from './Action.js';
 import SignalTarget from './SignalTarget.js';
 
-import Doors from '../hardware/Doors.js';
-import LightButton from '../hardware/LightButton.js';
+import Doors from '../Hard/Doors.js';
+import LightButton from '../Hard/LightButton.js';
 
 // private properties are handled by this WeakMap
 const privates = new WeakMap;

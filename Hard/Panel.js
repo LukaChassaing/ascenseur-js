@@ -1,4 +1,4 @@
-import SignalTarget from '../software/SignalTarget.js';
+import SignalTarget from '../Soft/SignalTarget.js';
 
 // a panel is a convenient intermediate layer that could
 // group one or more buttons together and be mounted
