@@ -125,7 +125,7 @@ export default class Controller extends SignalTarget {
       // find out what to do
       switch (button.symbol) {
         case Action.ALARM:
-          alert('ALARM ALARM');
+          alert('ALARM! Powered by Sodi@phone');
           break;
         // if it's about opening doors
         case Action.OPEN_DOORS:
